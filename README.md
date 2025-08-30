@@ -13,7 +13,7 @@ This repository implements a **Deep Convolutional Generative Adversarial Network
 ├── D.pth                     # Trained Discriminator model weights
 ```
 
----
+--- 
 
 ## Model Architectures
 
